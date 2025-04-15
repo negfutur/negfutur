@@ -1,6 +1,6 @@
-# App de Recettes 🍽️
+# ZileCuisine 🍽️
 
-Bienvenue sur l'application de recettes inspirée par la cuisine haïtienne et internationale.
+Bienvenue sur l'application de ZileCuisine inspirée par la cuisine haïtienne et internationale.
 
 ## 📂 Catégories Incluses
 - Petit Déjeuner (Haïtien & International)
