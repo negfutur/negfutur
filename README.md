@@ -1,16 +1,24 @@
-## Hi there 👋
+# App de Recettes 🍽️
 
-<!--
-**negfutur/negfutur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur l'application de recettes inspirée par la cuisine haïtienne et internationale.
 
-Here are some ideas to get you started:
+## 📂 Catégories Incluses
+- Petit Déjeuner (Haïtien & International)
+- Déjeuner (Haïtien & International)
+- Dîner (Haïtien & International)
+- Desserts
+- Boissons
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Démarrage
+
+```bash
+npm install
+npm run dev
+```
+
+## 🛠️ Tech Utilisée
+- Remix.run
+- React
+- TailwindCSS
+
+Développé avec ❤️ par negfutur.
